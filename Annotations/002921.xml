@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>002921.jpg</filename>
+	<path>C:\Users\bashu\Desktop\JPEGImages\JPEGImages\002921.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tpzongtongfu</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>28</ymin>
+			<xmax>465</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
